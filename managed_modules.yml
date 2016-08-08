@@ -1,4 +1,7 @@
 ---
+- puppet-cloudinit
+- puppet-google_auth_proxy
 - puppet-logrotate
+- puppet-user_group
 ...
 # vim: syntax=yaml
